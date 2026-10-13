@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Backups and temp
+*.tmp
+*.temp
+*.bak
+*.orig
+*.log
