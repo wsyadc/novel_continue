@@ -34,6 +34,7 @@ chapters/0002-标题.md
 | [docs/style-guide.md](docs/style-guide.md) | 续写时的文风、一致性与版权边界 |
 | [docs/continuity.md](docs/continuity.md) | 进度、关系与待续衔接点，由维护者以后填写 |
 | [assets/characters/](assets/characters/README.md) | 七原武、清见琉璃的非官方同人立绘 |
+| [assets/scenes/](assets/scenes/README.md) | 初遇与社团招新的非官方同人场景图 |
 
 ## 按章续写
 
